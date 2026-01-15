@@ -87,4 +87,5 @@ This project is provided for educational and research purposes only. Please cons
 
 Contact
 Abdullah Muhammad Khalid
-contact.abdullahkhalid@gmail.com
+connect.abdullahkhalid@gmail.com
+
