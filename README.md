@@ -86,6 +86,5 @@ Disclaimer
 This project is provided for educational and research purposes only. Please consult and adhere to Glassdoor’s Terms of Service and robots.txt before using any automated tools on their platform.
 
 Contact
-Abdullah Muhammad Khalid
 connect.abdullahkhalid@gmail.com
 
