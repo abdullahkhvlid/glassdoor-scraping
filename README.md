@@ -1,4 +1,4 @@
-## Glassdoor Job Scraper
+ Glassdoor Job Scraper
 
 This project is a modular web scraping pipeline for extracting job listings from Glassdoor. It captures individual job cards, parses the relevant data (title, salary, and job link), and stores the results in a structured CSV file.
 
